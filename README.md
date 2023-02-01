@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sourabh Shukla</h1>
 <h4 align="center">I am a Full-Stack Web Developer with a specialisation in MERN Stack, JavaScript, HTML and CSS. I am keen and enthusiastic to apply what I have learned to build products and services that will help people. I see myself working in an organisation  which creates innovative user-centric applications. I hope to continually challenge myself and grow with the organisation I am a part of.</h4>
 
-- 👨‍💻 All of my projects are available at [https://sourabh-shukla.vercel.app/](https://sourabh-shukla.vercel.app/)
+- 👨‍💻 All of my projects are available at [PORTFOLIO](https://sourabh-shukla.vercel.app/)
 
 - 💬 Ask me about **java,javascript,react,mongodb,redux,Bootstrap**
 
 - 📫 How to reach me **sourabh01itsme@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1QV_FRiXI-xvk4cBJfm7NYBkWdsayOBld/view?usp=share_link](https://drive.google.com/file/d/1QV_FRiXI-xvk4cBJfm7NYBkWdsayOBld/view?usp=share_link)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1QV_FRiXI-xvk4cBJfm7NYBkWdsayOBld/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,4 +22,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=S0URABHshukla&show_icons=true&locale=en" alt="sourabhshukla" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=S0URABHshukla&" alt="sourabhshukla" /></p>
+
+<code>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/marquee.svg"><img align="center" height="70" alt="Thanks" width="100%" src="https://github.com/Kushal997-das/Kushal997-das/raw/master/Profile%20generator/marquee.svg" style="max-width: 100%;"></a>
+</code>
+
+
+![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bottom_header.svg)
 
