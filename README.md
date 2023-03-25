@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sourabh Shukla</h1>
 <h4 align="center">I am a Full-Stack Web Developer with a specialisation in MERN Stack, JavaScript, HTML and CSS. I am keen and enthusiastic to apply what I have learned to build products and services that will help people. I see myself working in an organisation  which creates innovative user-centric applications. I hope to continually challenge myself and grow with the organisation I am a part of.</h4>
 
-- 💬 Ask me about **java,javascript,react,mongodb,redux,Bootstrap**
+- 💬 Ask me about **JAVA, JAVASCRIPT ,REACT ,REDUX ,MATERIAL UI, BOOTSTARP, MONGODB, NODE, EXPRESS, HTML, CSS,**
 
 - 📫 How to reach me **sourabh01itsme@gmail.com**
 
