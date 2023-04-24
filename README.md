@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **sourabh01itsme@gmail.com**
 
-- 👨‍💻 All of my projects are available at [PORTFOLIO](https://s0urabhshukla.github.io/)
+- 👨‍💻 All of my projects are available at [PORTFOLIO](https://sourabh-shukla.vercel.app/)
 
 - 📄 Know about my experiences [RESUME](https://drive.google.com/drive/folders/1DvMXCf_5H0NZ9lIZKuvmZSfGo1SaXoxO?usp=share_link)
 
